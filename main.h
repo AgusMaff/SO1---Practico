@@ -8,10 +8,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <errno.h>
 
 #define SIZE 256
 
-char input[SIZE];
-int func_num;
+int status;
+char file_name[SIZE];
+
+int mycat(char*);
 
 #endif //SO1_PRACTICO_MAIN_H

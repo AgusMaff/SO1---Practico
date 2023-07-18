@@ -1,2 +1,2 @@
 # SO1---Practico
-Este repositorio contiene una serie de ejercicios practicos en los que se deben aplicar los temas abordados en la materia Sitemas Operativos 1
+Este repositorio contiene el codigo correspondiente para la funcion mycat
